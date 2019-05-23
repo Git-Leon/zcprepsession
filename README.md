@@ -1,5 +1,6 @@
 # ZC Prep Class session
 * The purpose of this repository is to give you examples for javascript for your assessment.
+* The "Breaking into Tech" slides can be found [here](https://git-leon.github.io/myslides/zipcodeevents-breaking-into-tech.html#/)
 * The slides are viewable [here!](https://git-leon.github.io/myslides/zcpreparations-applicantprepclass.html#/)
 * The online JS editor is [here](https://www.webtoolkitonline.com/javascript-tester.html)
 * Feel like this is simple?
